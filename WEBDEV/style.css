@@ -1,0 +1,19 @@
+body {
+    background-image: url(bckgrnd.jpg);
+    background-size: cover;
+    text-align: center;
+    font-family: 'Grenze', serif;
+    width: 100%;
+    height: 100%;
+}
+
+.jumbotron {
+    opacity: 0.3;
+    height: 200px;
+}
+
+.card {
+    opacity: 0.7;
+    margin: 5px 46px;
+}
+
