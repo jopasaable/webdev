@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url('bckgrnd.jpg');
+  background-size: cover;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
